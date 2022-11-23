@@ -1,4 +1,4 @@
-This repository contains an array of structures source code:
+**This repository contains an array of structures source code:**
 
 --> For adding a country code to an array
 
